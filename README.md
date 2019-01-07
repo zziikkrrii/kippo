@@ -65,3 +65,4 @@ Maybe. See [FAQ](https://github.com/desaster/kippo/wiki/FAQ)
 ## I have some questions!
 
 I ~~am~~ _might be_ reachable via e-mail: *desaster* at *gmail* dot *com*, or as *desaster* on the *#honeypots* channel in the *freenode* IRC network.
+# kippo
